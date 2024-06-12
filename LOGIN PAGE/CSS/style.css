@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.icon{
+    margin-left: 42.5%;
+}
+.user{
+    top: 39.5%;
+    right: 10%;
+}
+.lock{
+    top: 59%;
+    right: 10%;
+}
